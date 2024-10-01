@@ -1,0 +1,94 @@
+.form-horizontal{
+    padding:10px;
+  }
+  .form-group1{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    #username{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+  .form-group2{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    .form-group3{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    .form-group4{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    .form-group5{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    .form-group6{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    .form-group7{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    #password{
+      border-style: double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+    #reenterpassword{
+      border-style: double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+    #firstname{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+    #lastname{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+    #email{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+    #age{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+
+      .signup{
+        background-color: aliceblue;
+        color:black;
+        margin: 10px;
+        width: fit-content;
+      }

@@ -1,0 +1,43 @@
+.form-horizontal{
+    padding:10px;
+  }
+  .form-group1{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    #itemname{
+      border-style:double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+  .form-group2{
+      display: flex;
+      flex-direction: row;
+      padding: 8px;
+      height: 60px;
+    }
+    #itemquantity{
+      border-style: double;
+      border-radius: 8px;
+      border-color: rgb(228, 224, 224);
+      height: 40px;
+    }
+
+    .form-group3{
+        display: flex;
+        flex-direction: row;
+        padding: 8px;
+        height: 60px;
+      }
+      #itemimage{
+        height: 40px;
+      }
+      .additembtn{
+        background-color: aliceblue;
+        color:black;
+        margin: 10px;
+        width: fit-content;
+      }
